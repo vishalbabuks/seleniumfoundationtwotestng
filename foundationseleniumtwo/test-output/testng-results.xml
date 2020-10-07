@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="126" started-at="2020-10-07T06:08:25Z" finished-at="2020-10-07T06:08:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="126" started-at="2020-10-07T06:08:25Z" finished-at="2020-10-07T06:08:25Z">
+      <class name="com.testngconcepts.Enabledisable">
+        <test-method status="PASS" signature="testMethodOne()[pri:0, instance:com.testngconcepts.Enabledisable@29ee9faa]" name="testMethodOne" duration-ms="27" started-at="2020-10-07T06:08:25Z" finished-at="2020-10-07T06:08:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodOne -->
+        <test-method status="PASS" signature="testMethodThree()[pri:0, instance:com.testngconcepts.Enabledisable@29ee9faa]" name="testMethodThree" duration-ms="13" started-at="2020-10-07T06:08:25Z" finished-at="2020-10-07T06:08:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodThree -->
+      </class> <!-- com.testngconcepts.Enabledisable -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
